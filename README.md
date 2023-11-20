@@ -1,4 +1,4 @@
-# Three_Attractors
+# Three Attractors
 Python code to create an animation of three chaotic attractors side by side.
 
 ## Example Output at Low Quality
